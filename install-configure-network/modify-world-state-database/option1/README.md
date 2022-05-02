@@ -1,0 +1,1 @@
+Run `gen-artifacts.sh`
